@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cin >> "hello game";
+    std::cout << "hello game";
 
     return 0;
 }
